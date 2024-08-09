@@ -1,0 +1,55 @@
+<resources>
+    /*Image Titles*/
+    <string name="app_name">BuildApp</string>
+    <string name="acropolis">ACROPOLIS</string>
+    <string name="angkor">ANGKOR WAT</string>
+    <string name="colosseum">COLOSSEUM</string>
+    <string name="eiffel">EIFFEL TOWER</string>
+    <string name="empirestate">EMPIRE STATE BUILDING</string>
+    <string name="goldengate">GOLDEN GATE BRIDGE</string>
+    <string name="humayun">HUMAYUNS TOMB</string>
+    <string name="machupicchu">MACHU PICCHU</string>
+    <string name="petra">PETRA</string>
+    <string name="sagradafamillia">SAGRADA FAMILLIA</string>
+    <string name="statueofliberty">STATUE OF LIBERTY</string>
+    <string name="tajmahal">TAJ MAHAL</string>
+    <string name="MaintText">The Famous Buildings In The World</string>
+
+
+
+
+
+    /*Button Text*/
+    <string name="View">View</string>
+
+
+    /*Details*/
+    <string name="detail1">Acropolis: The Acropolis is an ancient citadel located on a rocky outcrop above the city of Athens, Greece.
+        It includes several ancient buildings of great architectural and historic significance,\n
+        the most famous of which is the Parthenon, a temple dedicated to the goddess Athena.</string>
+
+    <string name="detail2">Angkor Wat: Angkor Wat is a temple complex in Cambodia and the largest religious monument in the world.
+        Built in the early 12th century, it was originally dedicated to the Hindu god Vishnu but gradually transformed into a Buddhist temple complex.</string>
+
+    <string name="detail3">Colosseum: Located in the center of Rome, Italy, the Colosseum is an ancient amphitheater built in the first century AD.
+        It was used for gladiatorial contests, public spectacles, and other events, and is one of the most iconic symbols of ancient Rome.</string>
+
+    <string name="detail4">Eiffel Tower: The Eiffel Tower is a wrought iron lattice tower located in Paris, France. It was designed by Gustave Eiffel and completed in 1889 as the entrance arch for the 1889 Worlds Fair. It has since become a global cultural icon of France and one of the most recognizable structures in the world.</string>
+
+    <string name="detail5">Empire State Building: Situated in Midtown Manhattan, New York City, the Empire State Building is a skyscraper that was completed in 1931. At the time of its construction, it was the tallest building in the world and has remained an iconic symbol of New York City ever since.</string>
+
+    <string name="detail6">Golden Gate Bridge: The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait, the mile-wide channel between San Francisco Bay and the Pacific Ocean. Completed in 1937, it is one of the most internationally recognized symbols of San Francisco and California.</string>
+
+    <string name="detail7">Humayuns Tomb: Located in Delhi, India, Humayuns Tomb is a magnificent mausoleum built in the 16th century. It was commissioned by Empress Bega Begum for her husband, the Mughal Emperor Humayun, and is considered a precursor to the Taj Mahal due to its architectural style.</string>
+
+    <string name="detail8">Machu Picchu: Machu Picchu is an ancient Incan citadel located in the Andes Mountains of Peru. Built in the 15th century, it is renowned for its sophisticated dry-stone construction and stunning mountainous setting. Machu Picchu is one of the most famous archaeological sites in the world and a UNESCO World Heritage Site.</string>
+
+    <string name="detail9">Petra: Petra is an archaeological site in Jordan that was the capital of the Nabatean Kingdom in the 4th century BC. Known for its rock-cut architecture and water conduit system, Petra is famous for its rose-colored rock-cut architecture and is often called the "Rose City".</string>
+
+    <string name="detail10">Sagrada Família: The Sagrada Família is a large unfinished basilica located in Barcelona, Spain, designed by the renowned Catalan architect Antoni Gaudí. Construction began in 1882 and is expected to be completed in the early 21st century. It is considered one of Gaudís masterpieces and is a UNESCO World Heritage Site.</string>
+
+    <string name="detail11">Statue of Liberty: The Statue of Liberty is a colossal neoclassical sculpture located on Liberty Island in New York Harbor, USA. Designed by Frédéric Auguste Bartholdi and dedicated in 1886, it was a gift from France to the United States to commemorate the centennial of the American Declaration of Independence. It has since become a symbol of freedom and democracy.</string>
+
+    <string name="detail12">Taj Mahal: The Taj Mahal is a white marble mausoleum located in Agra, India, built by the Mughal Emperor Shah Jahan in memory of his favorite wife, Mumtaz Mahal, in the 17th century. Renowned for its architectural beauty and symmetry, it is considered one of the most magnificent buildings in the world and is a UNESCO World Heritage Site.</string>
+
+</resources>
